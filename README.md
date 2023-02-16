@@ -1,6 +1,6 @@
 # Project-Blog-me-CLient :
 
-> this a one part of blog-me
+> This a one part of blog-me
 > Its Client Project
 
 > Blog-Me-Client
@@ -12,7 +12,7 @@
 
 # requirements:
 
-> axios,react-bootstrap,react,nodemon,mongoose,express
+> Axios,react-bootstrap,react,nodemon,mongoose,express
 
 # Create with :
 
@@ -21,6 +21,6 @@
 # Front-end
 
 > First use `npm install` // for install requirements Project  
-> use `npm start` in to /blog-me/client/ /// for show front blog
+> Use `npm start` in to /blog-me/client/ /// for show front blog
 
 # Finish
